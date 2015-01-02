@@ -44,4 +44,3 @@ var Ouya = Class(function () {
 });
 
 exports = new Ouya();
-
